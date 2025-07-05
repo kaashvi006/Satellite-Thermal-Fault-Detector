@@ -1,5 +1,5 @@
 # Satellite-Thermal-Fault-Detector
-This project detects thermal anomalies in real satellite telemetry data using threshold-based fault flags. The data is sourced from **NASA PREFIRE**, and the logic identifies possible temperature-related subsystem failures in components like batteries, command modules, and the IMU.
+This project detects thermal anomalies in real satellite telemetry data using threshold-based fault flags. The data is sourced from **NASA PREFIRE(Polar Radiant Energy in the Far InfraRed Experiment)**, and the logic identifies possible temperature-related subsystem failures in components like batteries, command modules, and the IMU.
 
 ---
 
